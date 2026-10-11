@@ -1,4 +1,8 @@
 node_modules/
 dist/
-work/wallpaper.svg
 native-overlay/DeskSketch
+
+# Local runtime data created by the wallpaper server.
+work/*.svg
+work/*.log
+!work/.gitkeep
